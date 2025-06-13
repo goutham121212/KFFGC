@@ -1,0 +1,12 @@
+{
+  "name": "kffgc-backend",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
